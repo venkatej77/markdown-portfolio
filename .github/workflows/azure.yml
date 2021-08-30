@@ -1,0 +1,7 @@
+name: Deploy WBS App to Azure app services
+
+on:
+  push
+    branches: develop
+  Pull_requests:
+    branches: develop
